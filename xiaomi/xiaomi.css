@@ -1,0 +1,59 @@
+.topbar-04{
+  height: 30px;
+  margin: 0 auto;
+  background: #333;
+  color:#b0b0b0;
+  font-size: 15px;
+  font-family: 幼圆;
+  line-height: 33px;
+}
+
+.sep-y{
+  color: #424242;
+}
+
+.container-4{
+  width: 1220px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0;
+  cursor: pointer;
+}
+
+.span{
+  color: #424242;
+}
+
+.container-212{
+  position: absolute;
+  left: 8px;
+  top: 60px;
+}
+
+.header-nav-2002{
+  float: left;
+  width: 850px;
+}
+
+.nav-list-yxy{
+  position: relative;
+  z-index: 10px;
+  height: 88px;
+  width: 820px;
+  float: left;
+  margin: 0px;
+  padding: 10px 0 0 120px;
+  list-style-type: none;
+  font-size: 17px;
+}
+
+.nav-item-x{
+  float: left;
+}
+
+.link-yy{
+  display: inline-block;
+  padding: 18px 8px 18px;
+  color: #333;
+  
+}
